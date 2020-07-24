@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@127.0.0.1:3307/codingthunder",
+    "prod_uri": "mysql://root:@127.0.0.1:3307/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Coding Thunder Ipsita",
+    "tag_line": "A new blog for coding challenges",
+    "gmail-user": "ipsitaghosh5050@gmail.com",
+    "gmail-password": "9836064530",
+    "about_text": "Hii, I am Ipsita. I am a Computer Science Engineer...",
+    "no_of_posts": 3,
+    "login_img": "login.jpg",
+    "admin_user": "ipsita@ghosh",
+    "admin_password":"12345",
+    "upload_location": "E:\\flask\\static"
+  }
+}
