@@ -53,6 +53,7 @@ class Posts(db.Model):
     img_file = db.Column(db.String(20), nullable=True)
 
 
+
 @app.route('/')
 def home():
     flash("Hii, welcome to coding thunder","success")
